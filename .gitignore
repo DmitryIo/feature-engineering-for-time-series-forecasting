@@ -9,3 +9,4 @@
 # folders
 
 venv/
+.DS_Store
